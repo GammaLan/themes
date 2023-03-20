@@ -1,0 +1,50 @@
+/**
+ * @name ThemeFixer
+ * @description ThemeFixerCSS for transparent themes
+ * @author DevilBro
+ * @version 1.0.3
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ */
+
+body,
+#app-mount,
+#app-mount .app-3xd6d0,
+#app-mount .app-2CXKsg,
+#app-mount .container-2RRFHK.fixClipping-3GOd_d,
+#app-mount .wrapper-3AZUiP,
+#app-mount .bg-1QIAus,
+#app-mount .layer-86YKbF,
+#app-mount .container-1NXEtd,
+#app-mount .privateChannels-oVe7HL,
+#app-mount .panels-3wFtMD > *,
+#app-mount .chat-2ZfjoI,
+#app-mount .container-3XgAHv,
+#app-mount .wrapper-3HVHpV,
+#app-mount .noChat-sb1z07,
+#app-mount .members-3WRCEx,
+#app-mount .members-3WRCEx > div,
+#app-mount .container-2cd8Mz,
+#app-mount .applicationStore-2nk7Lo,
+#app-mount .pageWrapper-2PwDoS,
+#app-mount .scrollerBase-_bVAAt,
+#app-mount .standardSidebarView-E9Pc3j,
+#app-mount .contentRegion-3HkfJJ {
+	background-color: transparent;
+}
+#app-mount .children-3xh0VB:after {
+	display: none;
+}
+#app-mount .wrapper-1_HaEi {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+#app-mount .container-ZMc96U.themed-Hp1KC_,
+#app-mount .sidebarRegion-1VBisG,
+#app-mount .sidebar-1tnWFu,
+#app-mount .panels-3wFtMD,
+#app-mount .membersWrap-3NUR2t,
+#app-mount .nowPlayingColumn-1eCBCN {
+	background-color: rgba(0, 0, 0, 0.2);
+}
